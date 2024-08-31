@@ -35,5 +35,5 @@ while True:
     else:
       
         print("Recomecando...")
-    print(f'='*25)
+    print(f'='*26)
 
