@@ -17,7 +17,7 @@ while True:
         print(F"Nome: {nome}")
         if media >6 :
             print(f"Resultado: APROVADO")
-        elif media < 6:
+        elif media < 4:
             print(f"Resultado: REPROVADO")
         else:
             print(f"Resultado: Exame")
@@ -36,4 +36,3 @@ while True:
       
         print("Recomecando...")
     print(f'='*26)
-
